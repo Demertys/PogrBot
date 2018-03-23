@@ -48,7 +48,7 @@ PySocks==1.6.7
 pyTelegramBotAPI==3.5.2
 python-dateutil==2.6.1
 pytz==2017.3
-pywin32==221
+pywin64==221
 pyzmq==16.0.2
 qtconsole==4.3.1
 requests==2.18.4
